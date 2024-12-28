@@ -1,4 +1,4 @@
-<h1 align="center">IKFRAME CREATOR v1.1</h1>
+<h1 align="center">IKFRAME-CREATOR v1.1</h1>
 
 ## Info
 
