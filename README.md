@@ -2,7 +2,7 @@
 
 ## Info
 
-<a href="https://create.roblox.com/docs/studio/plugins">Plugin</a> encargado de generar la cantidad frames que quieras de manera horizontal y verticalmente en <a href="https://create.roblox.com/">Roblox Studio</a>
+<a href="https://create.roblox.com/docs/studio/plugins">Plugin</a> encargado de generar la cantidad frames que quieras de manera horizontal y vertical en <a href="https://create.roblox.com/">Roblox Studio</a>
 
 <img src="/img/preview1.png" alt="preview1">
 
